@@ -35,7 +35,7 @@ DEFAULT_CONFIGURATION = {
     "show_fps": False,
     "show_windows_games": False,
     "keep_window_maximized": False
-}
+    "OS_Version": "linux"
 
 # Game IDs to ignore when received by the API
 IGNORE_GAME_IDS = [
